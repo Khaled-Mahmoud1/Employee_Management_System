@@ -102,9 +102,13 @@ Interacts with EmployeeManager
 
 ## OOP Concepts Applied
 Concept	: Implementation
+
 Encapsulation	: Private/Protected fields + methods
+
 Inheritance :	FullTimeEmployee & PartTimeEmployee extend Employee
+
 Polymorphism :	Overridden calculateSalary()
+
 Abstraction :	Handling objects using Employee reference
 
 ---
