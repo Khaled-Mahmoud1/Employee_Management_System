@@ -116,8 +116,11 @@ Abstraction :	Handling objects using Employee reference
 ## How to Run the Project
 
 1- Open the project in any Java IDE (IntelliJ, Eclipse, NetBeans)
+
 2- Compile all .java files
+
 3- Run Main.java
+
 4- Use the menu to interact with the system
 
 ---
